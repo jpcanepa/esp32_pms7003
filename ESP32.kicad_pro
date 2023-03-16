@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 1.0
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -381,9 +381,6 @@
         "nets": [
           "+3V3",
           "+5V",
-          "/3v3_reg_vin",
-          "/5v_reg_out",
-          "/B+",
           "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
