@@ -381,6 +381,10 @@
         "nets": [
           "+3V3",
           "+5V",
+          "+BATT",
+          "/3v3RI",
+          "/5vRI",
+          "/5vRO",
           "VBUS"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
