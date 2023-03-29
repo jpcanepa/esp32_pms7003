@@ -1990,14 +1990,13 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0613589d-d706-4080-b034-d4136cc3671c)
   )
-  (text "Este footprint no parece\nser el correcto. Elegir\nuno explicito!"
-    (at 13.97 63.5 0)
-    (effects (font (size 1.27 1.27)) (justify left bottom))
-    (uuid 2c1c754f-46cd-4a5f-b79a-f384ad4c8c06)
-  )
   (text "ESP32 Interface For PMS7003 Air Quality Sensor" (at 186.69 190.5 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 479be069-5aa7-4a78-b2e0-bdc70c30f7bd)
+  )
+  (text "THIS IS WRONG? \nNeed N-Channel MOSFET" (at 40.64 135.89 90)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid a314ff94-b4d7-4b81-8697-fac75f97005c)
   )
 
   (label "USB_D-" (at 43.18 69.85 0) (fields_autoplaced)
